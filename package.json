@@ -1,0 +1,23 @@
+{
+  "name": "leaflet-mapquest",
+  "version": "1.0.2",
+  "description": "MapQuest.js is a JavaScript library for interactive maps, geocoding, directions, and traffic. MapQuest.js is powered by the MapQuest APIs and integrates with Leaflet.js.",
+  "module": "mq-map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindels/leaflet-mapquest.git"
+  },
+  "keywords": [
+    "leaflet",
+    "mapquest"
+  ],
+  "author": "Kevin Dels <k3v1nd315@gmail.com> (https://github.com/kevindels)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevindels/leaflet-mapquest/issues"
+  },
+  "homepage": "https://github.com/kevindels/leaflet-mapquest#readme"
+}
